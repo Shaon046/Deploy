@@ -1,4 +1,4 @@
-import Product from "../schema/product.schma";
+import Product from "../schema/product.schma.js";
 
 export const getProduct = async (request, response) => {
   try {
